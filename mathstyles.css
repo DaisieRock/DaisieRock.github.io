@@ -78,6 +78,18 @@ body {
     font-size: 2.75vw;
     text-align: center;
 }
+p {
+    padding-left: 1.2em;
+    padding-right: 1.2em;
+}
+ul {
+    padding-right: 1.2em;
+    padding-left: 2.5em;
+}
+ol {
+    padding-right: 1.2em;
+    padding-left: 2.5em;
+}
 @media screen and (max-width: 800px) {
     .textyblock, .imagespace {
         width: 100%;
@@ -119,17 +131,6 @@ body {
     .announcement {
         font-size:.86em;
     }
-}
-p {
-    padding-left: 1.2em;
-    padding-right: 1.2em;
-}
-ul {
-    padding-right: 1.2em;
-}
-
-ol {
-    padding-right: 1.2em;
 }
 footer {
     color: #d18200;
