@@ -1,0 +1,5 @@
+## Ignore things that aren't ready for the public yet.
+music.html
+musicstyles.css
+sitewideinfo.json
+.DS_Store
