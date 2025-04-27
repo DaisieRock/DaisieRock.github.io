@@ -1,5 +1,5 @@
 ## Ignore things that aren't ready for the public yet.
-music.html
-musicstyles.css
+music*
+fotos*
 sitewideinfo.json
 .DS_Store
