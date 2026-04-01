@@ -98,6 +98,15 @@ ol {
     padding-right: 1.2em;
     padding-left: 2.5em;
 }
+footer {
+    color: #1fabd5;
+    font-family: Cambria, Cochin, Georgia, Times;
+    text-align: right;
+    text-shadow: -2px 2px #333333;
+    padding-right: 1%;
+    content:
+        Updated 19 December 2024;
+}
 @media screen and (max-width: 800px) {
     .textyblock, .imagespace {
         width: 100%;
@@ -158,13 +167,4 @@ ol {
     .announcement {
         font-size:.86em;
     }
-}
-footer {
-    color: #1fabd5;
-    font-family: Cambria, Cochin, Georgia, Times;
-    text-align: right;
-    text-shadow: -2px 2px #333333;
-    padding-right: 1%;
-    content:
-        Updated 19 December 2024;
 }
